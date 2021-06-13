@@ -36,8 +36,8 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: lzle
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+# Enter your Baidu Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+baidu_analytics: 36d7ee1a4f84b79b29aa6d48e212ff8e
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
